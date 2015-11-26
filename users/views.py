@@ -14,6 +14,10 @@ DB=[{
 	"id":3,
 	"nombre":"Viri",
 	"edad":31,
+},{
+	"id":77,
+	"nombre":"Brendi",
+	"edad":22,
 }]
 
 
